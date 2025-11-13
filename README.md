@@ -63,4 +63,37 @@ The Python module compares three sorting algorithms used to order patient ages.
 
 Run the comparison locally:
 ```bash
-python python/sorting_algorithms.py
+python python/sorting_algorithms.ipynb
+
+---
+
+## 🧩 Results Summary
+
+- The relational model reduces redundancy and ensures data integrity.  
+- PostgreSQL provides stability and scalability for future extensions.  
+- Algorithm tests validate how computational complexity affects data handling performance.
+
+---
+
+## 🧭 Future Work
+
+- Implement authentication and role-based access control (RBAC).  
+- Add interoperability standards (FHIR / HL7).  
+- Integrate data analytics using Python (`pandas`, `scikit-learn`).  
+- Deploy the database via a public API for testing and research.
+
+---
+
+## 👨‍💻 Authors
+
+**Carlos Sebastián Sánchez** – Data modeling & algorithms  
+**Ana María Micán**, **Laura Camila Peláez**, **Melissa Marian Martínez Corredor**  
+**Advisor:** Yenny Paola Sierra Bonilla  
+*Universidad Católica de Colombia – 2025*
+
+---
+
+## 📜 License
+
+This project is for **academic and educational purposes only**.  
+All datasets are **simulated** and do **not** contain real medical information.
