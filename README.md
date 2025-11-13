@@ -64,7 +64,7 @@ The Python module compares three sorting algorithms used to order patient ages.
 Run the comparison locally:
 ```bash
 python python/sorting_algorithms.ipynb
-
+```
 ---
 
 ## 🧩 Results Summary
